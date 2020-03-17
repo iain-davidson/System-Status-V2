@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="470f42dddbeb8410032d7423399619ee" sys_domain="global" table="cmdb_ci_outage" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>davidia</sys_created_by>
+            <sys_created_on>2020-03-13 18:15:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>870f42dddbeb8410032d7423399619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_outage" name="cmdb_ci_outage" sys_domain="global" view="Default view">470f42dddbeb8410032d7423399619ee</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_outage" sys_domain="global" view="Default view">fe657c41c0a8016901e4d960ee659cfb</sys_ui_section>
+            <sys_updated_by>davidia</sys_updated_by>
+            <sys_updated_on>2020-03-13 18:15:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>davidia</sys_created_by>
+            <sys_created_on>2020-03-13 18:15:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>070f42dddbeb8410032d7423399619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_outage" name="cmdb_ci_outage" sys_domain="global" view="Default view">470f42dddbeb8410032d7423399619ee</sys_ui_form>
+            <sys_ui_section caption="Outage Details" display_value="Outage Details" name="cmdb_ci_outage" sys_domain="global" view="Default view">966fc8d7dba23300b0b0a0f2ca96191e</sys_ui_section>
+            <sys_updated_by>davidia</sys_updated_by>
+            <sys_updated_on>2020-03-13 18:15:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_ci_outage</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>davidia</sys_created_by>
+            <sys_created_on>2020-03-13 18:15:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>470f42dddbeb8410032d7423399619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_outage</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">3dabd30adb302300b472f69f29961926</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="System Status v2">c9810417db223300b0b0a0f2ca96191a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_470f42dddbeb8410032d7423399619ee</sys_update_name>
+            <sys_updated_by>davidia</sys_updated_by>
+            <sys_updated_on>2020-03-13 18:15:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
